@@ -1,0 +1,7 @@
+{
+  "host": "my-db-instance.czskjhbfavm2.eu-north-1.rds.amazonaws.com",
+  "port_num": "5432",
+  "database": "VsT_app_db",
+  "username": "postgres",
+  "password": "mk1scorpion"
+}
